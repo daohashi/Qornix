@@ -1,0 +1,73 @@
+body{
+	background-color:rgb(100,100,100);
+	color:rgb(0,0,0);
+	font-family:"arial";
+	text-align:center;
+	font-size:25px;
+}
+#twitter{
+	text-align:left;
+	background-color:rgb(165,165,165);
+	width:800px;
+	padding:10 25 10 25;
+	margin:0 auto 0 auto;
+}
+.navigation{
+	text-decoration:underline;
+	float:right;
+	background-color:rgb(240,240,240);
+	margin:0 5px 0 5px;
+	padding:5px 5px 5px 5px;
+	border-radius:5px;
+}
+#container1{
+	border-top-left-radius:15px;
+	border-top-right-radius:15px;
+	-moz-top-radius-bottomleft:15px;
+	-moz-top-radius-bottomright:15px;
+	background-color:rgb(150,150,150);
+	width:800px;
+	margin:25 auto 0 auto;
+	padding:25 25 25 25;
+}
+#container2{
+	border-bottom-left-radius:15px;
+	border-bottom-right-radius:15px;
+	-moz-border-radius-bottomleft:15px;
+	-moz-border-radius-bottomright:15px;
+	background-color:rgb(180,180,180);
+	width:800px;
+	margin:0 auto 25 auto;
+	padding:25 25 25 25;
+	text-align:left;
+}
+#logo{
+	display:block;
+	margin:auto;
+}
+.small{
+	font-size:15px;
+}
+table{
+	width:100%;
+	text-align:center;
+}
+td{
+	padding:10px;
+}
+a{
+	text-decoration:underline;
+	color:rgb(0,0,0);
+}
+a:link{
+	color:rgb(0,0,0);
+}
+a:visited{
+	color:rgb(0,0,0);
+}
+a:hover{
+	color:rgb(150,150,150);
+}
+a:active{
+	color:rgb(50,50,50);
+}
